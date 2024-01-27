@@ -1,6 +1,7 @@
+![MasterHead](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
 <h1 align="center">Hi 👋, I'm Maisam Najafi</h1>
 <h3 align="center">A passionate web developer from Afghanistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisamnajafi&label=Profile%20views&color=0e75b6&style=flat" alt="maisamnajafi" /> </p>
 
